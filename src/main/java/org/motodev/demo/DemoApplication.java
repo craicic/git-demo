@@ -13,4 +13,8 @@ public class DemoApplication {
 	public static void newFeature() {
 		// code here
 	}
+
+	public static void newFeature1() {
+		// code here
+	}
 }
